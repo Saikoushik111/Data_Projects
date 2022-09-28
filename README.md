@@ -6,4 +6,4 @@ The dataset is from Kaggle with the name "January Flight Delay Prediction".
 
 Performed EDA steps like identifying missing data, summary statistics and plotting different types of graphs using ggplot to answer insightful questions on the dataset.
 
-[Project 2: Netflix Data Analysis]
+[Project: Pandas Data Analysis]
